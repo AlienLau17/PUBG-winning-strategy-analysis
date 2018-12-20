@@ -3,14 +3,14 @@
 ## Dataset
 https://www.kaggle.com/c/pubg-finish-placement-prediction/kernels train_v2.csv
 
-## Data Visualization
-Containss necessary part of Data Visualizations of EDA
+## Data Visualization.ipynb
+Containss necessary part and results of Data Visualizations and EDA
 
-## Data Processing
-Download the Dataset above as raw data and ran through this file to get a processed-data
+## EDA_Datacleansing.ipynb
+Download the Dataset above as raw data and ran through this file to get a processed-data, contains some basic EDA plots.
 
-## Model Training
+## Model Training.ipynb
 Contains training method and tuning processing of RF model
 
-## three models
+## three models.ipynb
 Training methods of the 3 model of group game: Max/Mean/Min
